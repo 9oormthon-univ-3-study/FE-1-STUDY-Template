@@ -1,5 +1,13 @@
 # 구름톤 유니브 3기 연합 스터디 1차 프론트엔드 과제
 
+```
+🗓️ 과제 제출 기한 : 9/9 (월) ~ 9/18 (수)
+💻 과제 제출 방법 : https://github.com/9oormthon-univ-3-study → 개인 레포지토리 제출
+🖥️ 과제 스택 : Web - React
+📌 필수 과제 : Props Drilling → Context API / 권장, 선택 : → Redux
+🔗 예시 배포 링크 : https://team-sparta-assignment-1.vercel.app/
+```
+
 ## 🧑🏻‍🎓**학습 목표**
 
 - React
@@ -127,7 +135,8 @@ yarn dev
 yarn add styled-components
 ```
 
-!https://velog.velcdn.com/images/eldoradodo/post/e835d050-164f-4ee5-817e-fbcb968d2ca2/image.png
+<img width="300px" src="https://github.com/user-attachments/assets/64f01056-9d79-4aad-902f-11a1bdcdc483" alt="폴더 구조"/>
+
 
 ---
 
@@ -141,7 +150,7 @@ git checkout -b props-drilling
 
 🔻
 
-!https://velog.velcdn.com/images/eldoradodo/post/3413a3ff-c341-4ccd-a08a-b9c8d660aeff/image.png
+<img width="300px" src="https://github.com/user-attachments/assets/1805d7e4-a26f-4c39-a61e-9442ff6b4b7a" alt="브랜치 구조"/>
 
 ---
 
@@ -251,7 +260,7 @@ fakeData.json
 
 참고: 제공해 드린 fakedata 와 같은 형식을 이용하실 필요는 없습니다. 자유롭게 데이터 형식을 택하셔도 무방합니다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/21c858f8-0485-4fc9-9b21-dcbe4ac0a182/89615ad8-edec-4d40-a131-c2e06de0c56a/2d45ca66-1c33-41e6-bb2c-3596619c2d59.png)
+<img width="500px" src="https://github.com/user-attachments/assets/79ef1d85-8138-4037-97af-8550f7e002e3" alt="fakedata"/>
 
 ---
 
